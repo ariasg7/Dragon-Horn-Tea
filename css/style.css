@@ -9652,14 +9652,3 @@ h6,
   background-repeat: no-repeat;
   background-size: cover;
 }
-@media only screen and (max-width: 768px) {
-    .carousel-logo {
-        width: 250px !important; /* Smaller width for mobile */
-    }
-}
-
-@media only screen and (max-width: 480px) {
-    .carousel-logo {
-        width: 180px !important; /* Even smaller for very small phones */
-    }
-}
